@@ -1,4 +1,4 @@
 # myproject-demo
 This is my first Git Repository
 <br>
-Auther-Nitesh Patil
+Auther-Nitesh Patil (nitesh technology)
